@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#121212</color>
+    <color name="colorPrimaryDark">#121212</color>
+    <color name="colorBottomNavBg">#121212</color>
+    <color name="colorCardBg">#1F1F1F</color>
+    <color name="colorAccent">#00F57C</color>
+    <color name="colorWhite">#F7F7F7</color>
+    <color name="colorSubtitle">#e2e2e2</color>
+    <color name="colorTextGrey">#ababab</color>
+    <color name="colorBottomBar">#FAFAFA</color>
+    <color name="colorNotification">#EA4855</color>
+    <color name="colorDivider">#131313</color>
+    <color name="colorGradientStart">#00131313</color>
+    <color name="colorGradientEnd">#A8131313</color>
+    <color name="colorBottomIcon">#FFFFFF</color>
+    <color name="colorBottomIconFill">#00F57C</color>
+    <color name="colorVoteAverageMovie">#FFAB00</color>
+    <color name="colorVoteAverageMovie2">#DBB14D</color>
+<!--    <color name="design_snackbar_background_color" tools:override="true">#FFAB00</color>-->
+<!--    <color name="design_snackbar_text" tools:override="true">#00F57C</color>-->
+    <color name="colorBottomBlack">#000000</color>
+    <color name="colorBottomWhite">#FFFFFF</color>
+    <color name="colorAddWatch">#909090</color>
+    <color name="colorSwipeDelete">#DD2C00</color>
+    <color name="colorSwipeSave">#009C3F</color>
+    <color name="recyclMenuIconColor">#00F57C</color>
+
+</resources>

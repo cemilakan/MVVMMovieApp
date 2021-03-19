@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/home"
+        android:title="Explore" />
+    <item
+        android:id="@+id/searchFragment"
+        android:title="Search"
+        android:icon="@drawable/ic_search_white"/>
+    <item
+        android:id="@+id/savedMovieFragment"
+        android:title="Saved"
+        android:icon="@drawable/bookmark_white"/>
+</menu>

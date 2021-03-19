@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="false"
+    android:layoutAnimation="@anim/layout_animation_fall_down">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
+        app:cardBackgroundColor="@color/colorCardBg"
+        app:cardCornerRadius="4dp"
+        app:cardPreventCornerOverlap="true">
+
+        <RelativeLayout
+            android:id="@+id/movie_category_root"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:focusable="true"
+            android:foreground="@drawable/views_click_animation_all">
+
+
+            <ImageView
+                android:id="@+id/movie_category_picture"
+                android:layout_width="140dp"
+                android:layout_height="64dp"
+                android:foreground="@drawable/opacity_low"
+                android:scaleType="centerCrop"
+                app:srcCompat="@drawable/genre_action" />
+
+            <TextView
+                android:id="@+id/movie_category_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:lines="1"
+                android:maxLength="12"
+                android:padding="4dp"
+                android:text="ANIMATION 12"
+                android:textColor="@color/colorWhite"
+                android:textSize="18sp" />
+
+        </RelativeLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+
+</RelativeLayout>

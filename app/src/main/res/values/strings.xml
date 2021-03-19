@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">Movie Archive</string>
+    <string name="home_movies">Explore Movies</string>
+    <string name="saved_movies">Saved Movies</string>
+    <string name="search_movies">Search Movies</string>
+    <string name="deneme">Search Movies</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="categories">Categories</string>
+    <string name="movies">Movies</string>
+    <string name="more_like_this">More Like This</string>
+    <string name="watch_later">Watch Later</string>
+    <string name="remove_from_archive">Remove From List</string>
+    <string name="share">Share</string>
+    <string name="search_tv">Search...</string>
+    <string name="bottom_explore">Explore</string>
+    <string name="bottom_search">Search</string>
+    <string name="bottom_saved">Saved</string>
+    <string name="saved_succesfully">Saved Successfully</string>
+    <string name="undo">Undo</string>
+    <string name="succesfully_deleted">Successfully Deleted</string>
+    <string name="view_all">View All</string>
+    <string name="kind_of">Like %1$s</string>
+    <string name="network_failure">Network Failure</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="error_conversion" translatable="false">Conversion Error</string>
+</resources>

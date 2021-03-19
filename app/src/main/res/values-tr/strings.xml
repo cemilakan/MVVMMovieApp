@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="deneme">Film Ara</string>
+    <string name="hello_blank_fragment">Merhaba Boş Fragment</string>
+    <string name="home_movies">Film Keşfi</string>
+    <string name="saved_movies">Kaydedilenler</string>
+    <string name="search_movies">Film Ara</string>
+    <string name="top_rated">En Yüksek Puanlı</string>
+    <string name="most_popular">En Popüler</string>
+    <string name="categories">Kategoriler</string>
+    <string name="more_like_this">Benzer Filmler</string>
+    <string name="movies">Filmler</string>
+    <string name="watch_later">Daha Sonra İzle</string>
+    <string name="remove_from_archive">Listeden Kaldır</string>
+    <string name="share">Paylaş</string>
+    <string name="search_tv">Bul...</string>
+    <string name="bottom_search">Ara</string>
+    <string name="bottom_saved">Kaydedilen</string>
+    <string name="bottom_explore">Keşif</string>
+    <string name="saved_succesfully">Başarıyla Kaydedildi</string>
+    <string name="undo">Geri Al</string>
+    <string name="succesfully_deleted">Başarıyla Silindi</string>
+    <string name="view_all">Tümünü Gör</string>
+    <string name="kind_of">%1$s Tarzı</string>
+    <string name="network_failure">Ağ Hatası</string>
+    <string name="no_internet">İnternet Bağlantısı Bulunamadı</string>
+</resources>
