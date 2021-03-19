@@ -12,5 +12,8 @@ What i used in it;
 UI From -> [@UIGITDEV](https://github.com/uigitdev/AndroidMultipleViewRecyclerView)
 
 My Teacher -> [@PHILIPPLACKNER](https://github.com/philipplackner)
+
+Youtube Video -> [Link](https://youtu.be/XHYvbu4LzGQ)
+
 ## Screenshots
 ![alt text](https://raw.githubusercontent.com/cemilakan/MVVMMovieApp/master/wholeapp.png)
